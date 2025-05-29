@@ -92,9 +92,9 @@ newtech-electronics/
 
 ## 🖼️ Screenshot
 
-![Screenshot](ss/screenshot1.png)
-![Screenshot](ss/screenshot2.png)
 ![Screenshot](ss/screenshot3.png)
+![Screenshot](ss/screenshot2.png)
+![Screenshot](ss/screenshot1.png)
 
 ---
 
